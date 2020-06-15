@@ -1,3 +1,5 @@
+export {customers as default}
+
 const customers = [
   {
     'gender': 'male',
@@ -433,5 +435,3 @@ const customers = [
     'nat': 'US'
   }
 ]
-
-export default customers;
