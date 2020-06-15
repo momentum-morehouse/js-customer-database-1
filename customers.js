@@ -30,9 +30,9 @@ const customers = [
       'value': '544-97-7715'
     },
     'picture': {
-      'large': 'https://randomuser.me/api/portraits/men/0.jpg',
-      'medium': 'https://randomuser.me/api/portraits/med/men/0.jpg',
-      'thumbnail': 'https://randomuser.me/api/portraits/thumb/men/0.jpg'
+      'large': 'https://randomuser.me/api/portraits/men/54.jpg',
+      'medium': 'https://randomuser.me/api/portraits/med/men/54.jpg',
+      'thumbnail': 'https://randomuser.me/api/portraits/thumb/men/54.jpg'
     },
     'nat': 'US'
   }, {
@@ -182,7 +182,7 @@ const customers = [
   }, {
     'gender': 'female',
     'name': {
-      'title': 'mrs',
+      'title': 'dr',
       'first': 'pauline',
       'last': 'hughes'
     },
@@ -210,9 +210,9 @@ const customers = [
       'value': '305-43-5842'
     },
     'picture': {
-      'large': 'https://randomuser.me/api/portraits/women/44.jpg',
-      'medium': 'https://randomuser.me/api/portraits/med/women/44.jpg',
-      'thumbnail': 'https://randomuser.me/api/portraits/thumb/women/44.jpg'
+      'large': 'https://randomuser.me/api/portraits/women/89.jpg',
+      'medium': 'https://randomuser.me/api/portraits/med/women/89.jpg',
+      'thumbnail': 'https://randomuser.me/api/portraits/thumb/women/89.jpg'
     },
     'nat': 'US'
   }, {
@@ -282,9 +282,9 @@ const customers = [
       'value': '017-75-9945'
     },
     'picture': {
-      'large': 'https://randomuser.me/api/portraits/men/18.jpg',
-      'medium': 'https://randomuser.me/api/portraits/med/men/18.jpg',
-      'thumbnail': 'https://randomuser.me/api/portraits/thumb/men/18.jpg'
+      'large': 'https://randomuser.me/api/portraits/men/55.jpg',
+      'medium': 'https://randomuser.me/api/portraits/med/men/55.jpg',
+      'thumbnail': 'https://randomuser.me/api/portraits/thumb/men/55.jpg'
     },
     'nat': 'US'
   }, {
@@ -324,9 +324,9 @@ const customers = [
     },
     'nat': 'US'
   }, {
-    'gender': 'female',
+    'gender': 'nonbinary',
     'name': {
-      'title': 'mrs',
+      'title': 'mx',
       'first': 'harper',
       'last': 'morales'
     },
