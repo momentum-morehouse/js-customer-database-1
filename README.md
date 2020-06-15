@@ -6,7 +6,7 @@ In this homework, you will build a customer database using DOM manipulation with
 
 The customers were generated using [RandomUser.me](https://randomuser.me/), and so they contain a lot of data. For our purposes, you will need their name, address, phone numbers, thumbnail, birthdate, and the date they became a customer, which is stored as `registered` in the data.
 
-*When you create your repl, make sure you select HTML, CSS, JSS as the language. The upper right panel should look like the attached replit image.
+*When you create your repl, make sure you select HTML, CSS, JSS as the language. The upper right panel should look like the attached replit image. The "configure the run button" box should be empty.
 
 ### Step 1
 Render all the data and the image for one customer only. Use HTML to create the empty layout, and then use JavaScript to populate it with specific user data. For example, you should not have any people's names written in your HTML. You should use JavaScript to add the name of a user to the page. Do not include dates in this step. They get their own step.
